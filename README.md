@@ -12,7 +12,7 @@ CLIP6'https://youtu.be/h9-0lEluzDI'
 
 CLIP7'https://youtu.be/eXV1WLgfE_s'
 
-CLIP8''
+CLIP8'https://youtu.be/S16kyO0SQhc'
 
 
 
